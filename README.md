@@ -5,7 +5,7 @@ To use this project :
 
 1.Download the project as zip and extract or clone the repo
 
-2.Run npm install in acutal folder directory in terminal and then nodemon app.js
+2.Run npm install in folder directory in terminal and then nodemon app.js
 
 3.Run npm install in frontend folder directory and then npm start
 
