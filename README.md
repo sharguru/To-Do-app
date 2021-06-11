@@ -10,4 +10,4 @@ To use this project :
 3.Run npm install in frontend folder directory and then npm start
 
 
-Note: npm install will install all the dependencies in teh package.json file
+Note: npm install will install all the dependencies in the package.json file
